@@ -25,10 +25,6 @@ Welcome to the Account Ledger Application! This project is a simple console-base
 
 ### Prerequisites
 
-- Java Development Kit (JDK) installed on your machine.
+- Java Development Kit (JDK) installed on my machine.
 
-### Installation
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/account-ledger.git
