@@ -1,6 +1,8 @@
 package com.pluralsight;
+import java.util.ArrayList;
+import java.util.List;
 
-public class Ledger {
+public class Transactions {
     private String date;
     private String time;
     private String description;
@@ -8,7 +10,7 @@ public class Ledger {
     private String amount;
 
 
-    public Ledger(String date, String time, String description, String vendor, String amount) {
+    public Transactions(String date, String time, String description, String vendor, String amount) {
         this.date = date;
         this.time = time;
         this.description = description;
