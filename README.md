@@ -1,5 +1,5 @@
 # AccountingLedgerApp
-By: Elan Sahalon
+By: Elan Sahalon\n
 YearUp Java Development Capstone 1
 
 Welcome to the Account Ledger Application! This project is a simple console-based program that allows users to manage their financial transactions, including deposits and payments. It features a ledger to view all transactions and a reporting menu to analyze financial data.
